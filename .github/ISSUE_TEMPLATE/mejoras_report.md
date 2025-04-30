@@ -1,3 +1,12 @@
+---
+
+name: "mejoras
+about: "Reportar mejoras para el proyecto"
+title: "[fiature]-Descripcion corta de mejoras"
+labels: fiature
+assignees: ""
+
+---
 # Solicitud de Mejora / Feature Request
 
 **Título de la Mejora:**  
